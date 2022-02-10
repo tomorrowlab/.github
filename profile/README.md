@@ -4,7 +4,7 @@ Below is a directory of links to repos organised by tech/function
 
 ### 🔵 🦷 Bluetooth Low Energy 
 
-- [Belay iBeacon](https://github.com/tomorrowlab/ATF)
-- [Waycount](https://github.com/tomorrowlab/WayCount-BLE)
-- [SK-II](https://github.com/tomorrowlab/SKII-BLE)
-- [Lightweight](https://github.com/tomorrowlab/LightWeight-BLE_Time_Sync)
+- [Belay](https://github.com/tomorrowlab/ATF): iBeacon
+- [Waycount](https://github.com/tomorrowlab/WayCount-BLE): BLE data push
+- [SK-II](https://github.com/tomorrowlab/SKII-BLE): background BLE data sync
+- [Lightweight](https://github.com/tomorrowlab/LightWeight-BLE_Time_Sync): BLE app settings
